@@ -127,5 +127,4 @@
     $('#ldl').html(p.ldl);
     $('#hdl').html(p.hdl);
   };
-
 })(window);
